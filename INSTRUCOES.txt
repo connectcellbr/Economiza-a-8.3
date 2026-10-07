@@ -1,0 +1,23 @@
+ECONOMIZA AI — COMPARADOR MULTIFONTE
+
+O aplicativo agora compara ofertas usando várias fontes públicas/indexadas.
+Fontes integradas: Mercado Livre, Amazon Brasil, Magazine Luiza, Casas Bahia, KaBuM!, Shopee e Zoom.
+
+IMPORTANTE:
+- O sistema nunca inventa preços.
+- Preços são coletados quando a fonte disponibiliza o valor publicamente.
+- Valores de parcelas (ex.: 10x de R$ 477,67) não são tratados como preço à vista.
+- Frete só entra no total quando a fonte fornece o valor; caso contrário aparece como "A calcular".
+- A disponibilidade e o preço final devem ser confirmados no checkout da loja.
+
+INICIAR:
+Windows: execute start_servidor.bat
+Linux/macOS: ./start_servidor.sh
+
+Depois abra o endereço mostrado pelo servidor.
+
+ENDPOINTS:
+/api/health
+/api/search?q=iPhone%2015
+/api/web-search?q=assunto
+/api/agent?q=pergunta

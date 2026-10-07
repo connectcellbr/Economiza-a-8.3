@@ -1,0 +1,20 @@
+INTEGRAÇÃO GOOGLE ADSENSE — ECONOMIZA AI
+
+Cliente AdSense configurado:
+ca-pub-4574630658292765
+
+O app usa Google AdSense Auto Ads na versão HTML normal.
+O código AMP enviado pelo proprietário não foi usado porque esta interface não é uma página AMP.
+
+Pontos de oportunidade adicionados:
+- abaixo do cabeçalho/antes da área principal de busca;
+- antes da área de resultados;
+- antes do assistente de IA;
+- dentro do fluxo da câmera, de forma discreta.
+
+Importante:
+- O Google decide automaticamente se/quando um anúncio será preenchido nessas áreas.
+- Não foi criado bloqueio obrigatório que force o usuário a assistir/clicar em anúncio antes de usar uma função.
+- Isso preserva a experiência de uso e evita transformar cada clique em um intersticial.
+- Se quiser anúncios em posições EXATAS, é necessário criar unidades de anúncio no AdSense e informar os respectivos data-ad-slot; Auto Ads não garante uma posição específica.
+- O domínio/app precisa estar corretamente cadastrado e aprovado no AdSense para os anúncios efetivamente aparecerem e gerarem receita.
